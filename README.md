@@ -37,5 +37,5 @@ Designed a Power BI dashboard to monitor sales performance across regions and pr
 ## 📬 Contact  
 - **Name**: T. Surya Prakash Rao  
 - **Email**: suryaprakash1892@gmail.com  
-- **LinkedIn**: [linkedin.com/in/surya-prakash-18s](https://linkedin.com/in/surya-prakash-18s)  
+- **LinkedIn**: linkedin.com/in/suryaprakash-data-analyst
 
